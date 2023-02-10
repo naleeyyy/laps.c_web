@@ -16,6 +16,7 @@ const libm = {
     "cosf": Math.cos,
     "sinf": Math.sin,
     "sqrtf": Math.sqrt,
+    "tanf": Math.tan,
 };
 
 let iota = 0;
