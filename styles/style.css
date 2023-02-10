@@ -13,3 +13,14 @@ body {
     left: 50%;
     transform: translate(-50%, -10%);
 }
+
+#back {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    transform: translate(-5%, -5%);
+    text-decoration: none;
+    cursor: pointer;
+    color:  white;
+    font-size: x-large;
+}
