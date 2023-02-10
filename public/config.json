@@ -3,6 +3,10 @@
         {
             "fileName": "triangleRot",
             "title": "Rotating Triangle"
+        },
+        {
+            "fileName": "cube3dRot",
+            "title": "Rotating Cube In 3D"
         }
     ]
 }
