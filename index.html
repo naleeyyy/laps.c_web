@@ -21,7 +21,7 @@
 
     <script>
         const list = document.getElementById('demoList')
-        fetch("./config.json")
+        fetch("./public/config.json")
             .then((res) => res.json())
             .then((json) => {
                 for (let demo of json.demos) {
