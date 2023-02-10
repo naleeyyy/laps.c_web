@@ -19,10 +19,9 @@
         </div>
     </div>
 
-    <script src="config.js"></script>
     <script>
         const list = document.getElementById('demoList')
-        fetch("/config.json")
+        fetch("./config.json")
             .then((res) => res.json())
             .then((json) => {
                 for (let demo of json.demos) {
