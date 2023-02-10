@@ -1,0 +1,15 @@
+body {
+    background: #181818;
+    color: #F0F0F0;
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 960px;
+    font-size: 16px;
+}
+
+#title {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+}
