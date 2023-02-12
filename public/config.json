@@ -7,6 +7,10 @@
         {
             "fileName": "cube3dRot",
             "title": "Rotating Cube In 3D"
+        },
+        {
+            "fileName": "pyramid3dRot",
+            "title":"Rotating Pyramid In 3D"
         }
     ]
 }
